@@ -1,6 +1,6 @@
 # lampadaJS
 
-Desenvolvendo mais um pouco JS na prática, adicionando interação no site, função de liga e desliga a lampada e se clicar nela a mesma quebra, sendo assim apenas um f5 para voltar ao normal.
-Repositório do Git e Exportando diretamentae da Netlify
+Developing a little more JS in practice, adding interaction on the site, a function to turn the lamp on and off and if you click on it, the same break, so just an f5 to return to normal.
+Git Repository and Exporting Directly from Netlify
 
-link do Site: https://lampada-dnc1.netlify.app/
+Website link: https://lampada-dnc1.netlify.app/
